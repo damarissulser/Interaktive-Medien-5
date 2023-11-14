@@ -8,13 +8,13 @@
 
 .logo {
     position: absolute;
-    top: 10px; /* Anpassen, um die gewünschte vertikale Position einzustellen */
-    left: 10px; /* Anpassen, um die gewünschte horizontale Position einzustellen */
+    
+
 }
 
 /* Weitere CSS-Stile für das Logo, z. B. Größe, Hintergrundfarbe, Schatten, etc. */
 .logo img {
-    width: 100px; /* Anpassen, um die Breite des Logos festzulegen */
+    width: 130px; /* Anpassen, um die Breite des Logos festzulegen */
     height: auto; /* Dadurch bleibt das Seitenverhältnis des Logos erhalten */
     padding-bottom: 0;
 }
@@ -100,7 +100,7 @@ section {
 }
 
 article {
-    width: 1200px;
+    width: 80vw;
     background-color: rgb(255, 255, 255);
     padding: 10px;
     border-radius: 10px; /* Hier wird die Abrundung festgelegt */

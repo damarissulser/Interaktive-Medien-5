@@ -15,7 +15,7 @@
 
 /* Weitere CSS-Stile für das Logo, z. B. Größe, Hintergrundfarbe, Schatten, etc. */
 .logo img {
-    width: 100px; /* Anpassen, um die Breite des Logos festzulegen */
+    width: 130px; /* Anpassen, um die Breite des Logos festzulegen */
     height: auto; /* Dadurch bleibt das Seitenverhältnis des Logos erhalten */
     padding-bottom: 0;
 }
