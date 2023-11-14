@@ -6,11 +6,10 @@
     z-index: 100; /* Um sicherzustellen, dass der Header über dem Inhalt bleibt */
 }
 
-/* Das CSS für das Logo und die Positionierung */
 .logo {
     position: absolute;
-    top: 10px; /* Anpassen, um die gewünschte vertikale Position einzustellen */
-    left: 10px; /* Anpassen, um die gewünschte horizontale Position einzustellen */
+    
+
 }
 
 /* Weitere CSS-Stile für das Logo, z. B. Größe, Hintergrundfarbe, Schatten, etc. */
