@@ -9,5 +9,6 @@ Zugegeben, meine Programmierkenntnisse könnten besser sein. Ich habe deshalb de
 # Hürden 
 Meine erste grosse Hürde war die Grundidee. Sobald ich wusste, dass es eine Informationsplattform werden sollte, hat sich der Rest (Konzept, Design, Inhalte) davon abgeleitet. Dann war auch die Responsivität eine Hürde, aber Anja hat mir helfen können und mir gezeigt, wie ich richtig mit viewport-width arbeite. Meine grösste Hürde zum Schluss waren die Javascript-Funktionen. Hier konnte mich aber Lea inspirieren und ChatGPT hat mir geholfen die Ideen umzusetzen. 
 
-#
+# Hinweise
+Für die Erfahrungsberichte wurden absichtlich nur Platzhaltertexte verwendet, da es sich um ein sensibles Thema handelt und ich keine Erfahrungsberichte erfinden möchte. 
  
