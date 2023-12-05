@@ -1,4 +1,10 @@
 /* Das CSS für das Logo und die Positionierung */
+
+.expanded-text {
+    display: none; /* Standardmäßig unsichtbar machen */
+    color: #333; /* Textfarbe für den erweiterten Text */
+}
+
 .sticky-header {
     position: sticky;
     top: 0;
@@ -14,7 +20,7 @@
 
 /* Weitere CSS-Stile für das Logo, z. B. Größe, Hintergrundfarbe, Schatten, etc. */
 .logo img {
-    width: 130px; /* Anpassen, um die Breite des Logos festzulegen */
+    width: 125px; /* Anpassen, um die Breite des Logos festzulegen */
     height: auto; /* Dadurch bleibt das Seitenverhältnis des Logos erhalten */
     padding-bottom: 0;
 }
@@ -159,30 +165,5 @@ a:hover {
 }
 
 
-
-
-
-/*{
-    font-family: Arial, sans-serif;
-    color: aquamarine;
-}
-
-.section {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.section h2 {
-    font-size: 2rem;
-}
-
-.section p {
-    font-size: 1rem;
-}
-
-/* Add more CSS styles as needed */
 
 
